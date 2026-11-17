@@ -1,7 +1,0 @@
-gradio>=6.0
-websockets>=12.0
-numpy
-pandas
-Pillow
-matplotlib
-opencv-python

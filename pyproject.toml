@@ -3,10 +3,9 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "openwam"
+name = "warp"
 version = "0.1.0"
-description = "OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining"
-authors = [{ name = "OpenWAM Contributors" }]
+authors = [{ name = "warp Contributors" }]
 license = { text = "Apache-2.0" }
 requires-python = ">=3.10"
 dependencies = [
@@ -60,10 +59,10 @@ include-package-data = true
 
 [tool.setuptools.packages.find]
 where = ["./"]
-include = ["openwam", "openwam.*"]
+include = ["warp", "warp.*"]
 
 [project.scripts]
-openwam-serve = "openwam.deploy.server:main"
+warp-serve = "warp.deploy.server:main"
 
 [tool.ruff]
 line-length = 120
@@ -77,4 +76,4 @@ select = ["E", "F", "I", "W"]
 ignore = ["E501", "E741"]
 
 [tool.ruff.lint.isort]
-known-first-party = ["openwam"]
+known-first-party = ["warp"]
