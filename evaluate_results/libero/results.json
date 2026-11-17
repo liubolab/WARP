@@ -1,0 +1,316 @@
+{
+  "action_mode": "eef",
+  "suite": "libero_spatial",
+  "task_id": 0,
+  "task": "pick_up_the_black_bowl_between_the_plate_and_the_ramekin_and_place_it_on_the_plate",
+  "instruction": "pick up the black bowl between the plate and the ramekin and place it on the plate",
+  "trial_start": 0,
+  "trial_stop": 50,
+  "successes": 50,
+  "success_rate": 1.0,
+  "max_steps": 600,
+  "settle_steps": 30,
+  "seed": 42,
+  "trials": [
+    {
+      "trial": 0,
+      "success": true,
+      "policy_steps": 73,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 1,
+      "success": true,
+      "policy_steps": 75,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 2,
+      "success": true,
+      "policy_steps": 76,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 3,
+      "success": true,
+      "policy_steps": 77,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 4,
+      "success": true,
+      "policy_steps": 76,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 5,
+      "success": true,
+      "policy_steps": 77,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 6,
+      "success": true,
+      "policy_steps": 73,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 7,
+      "success": true,
+      "policy_steps": 75,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 8,
+      "success": true,
+      "policy_steps": 78,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 9,
+      "success": true,
+      "policy_steps": 76,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 10,
+      "success": true,
+      "policy_steps": 72,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 11,
+      "success": true,
+      "policy_steps": 73,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 12,
+      "success": true,
+      "policy_steps": 76,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 13,
+      "success": true,
+      "policy_steps": 76,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 14,
+      "success": true,
+      "policy_steps": 75,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 15,
+      "success": true,
+      "policy_steps": 75,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 16,
+      "success": true,
+      "policy_steps": 77,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 17,
+      "success": true,
+      "policy_steps": 72,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 18,
+      "success": true,
+      "policy_steps": 77,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 19,
+      "success": true,
+      "policy_steps": 77,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 20,
+      "success": true,
+      "policy_steps": 78,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 21,
+      "success": true,
+      "policy_steps": 75,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 22,
+      "success": true,
+      "policy_steps": 78,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 23,
+      "success": true,
+      "policy_steps": 72,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 24,
+      "success": true,
+      "policy_steps": 74,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 25,
+      "success": true,
+      "policy_steps": 76,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 26,
+      "success": true,
+      "policy_steps": 76,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 27,
+      "success": true,
+      "policy_steps": 76,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 28,
+      "success": true,
+      "policy_steps": 72,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 29,
+      "success": true,
+      "policy_steps": 73,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 30,
+      "success": true,
+      "policy_steps": 74,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 31,
+      "success": true,
+      "policy_steps": 76,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 32,
+      "success": true,
+      "policy_steps": 78,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 33,
+      "success": true,
+      "policy_steps": 77,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 34,
+      "success": true,
+      "policy_steps": 71,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 35,
+      "success": true,
+      "policy_steps": 76,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 36,
+      "success": true,
+      "policy_steps": 76,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 37,
+      "success": true,
+      "policy_steps": 80,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 38,
+      "success": true,
+      "policy_steps": 71,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 39,
+      "success": true,
+      "policy_steps": 75,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 40,
+      "success": true,
+      "policy_steps": 73,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 41,
+      "success": true,
+      "policy_steps": 70,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 42,
+      "success": true,
+      "policy_steps": 78,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 43,
+      "success": true,
+      "policy_steps": 75,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 44,
+      "success": true,
+      "policy_steps": 73,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 45,
+      "success": true,
+      "policy_steps": 73,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 46,
+      "success": true,
+      "policy_steps": 69,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 47,
+      "success": true,
+      "policy_steps": 76,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 48,
+      "success": true,
+      "policy_steps": 73,
+      "last_reward": 1.0
+    },
+    {
+      "trial": 49,
+      "success": true,
+      "policy_steps": 70,
+      "last_reward": 1.0
+    }
+  ]
+}
